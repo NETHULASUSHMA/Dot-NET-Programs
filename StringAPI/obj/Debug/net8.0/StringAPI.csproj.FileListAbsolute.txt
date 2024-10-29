@@ -1,0 +1,14 @@
+F:\BATCH-7\Batch-7Sushma\StringAPI\bin\Debug\net8.0\StringAPI.exe
+F:\BATCH-7\Batch-7Sushma\StringAPI\bin\Debug\net8.0\StringAPI.deps.json
+F:\BATCH-7\Batch-7Sushma\StringAPI\bin\Debug\net8.0\StringAPI.runtimeconfig.json
+F:\BATCH-7\Batch-7Sushma\StringAPI\bin\Debug\net8.0\StringAPI.dll
+F:\BATCH-7\Batch-7Sushma\StringAPI\bin\Debug\net8.0\StringAPI.pdb
+F:\BATCH-7\Batch-7Sushma\StringAPI\obj\Debug\net8.0\StringAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\BATCH-7\Batch-7Sushma\StringAPI\obj\Debug\net8.0\StringAPI.AssemblyInfoInputs.cache
+F:\BATCH-7\Batch-7Sushma\StringAPI\obj\Debug\net8.0\StringAPI.AssemblyInfo.cs
+F:\BATCH-7\Batch-7Sushma\StringAPI\obj\Debug\net8.0\StringAPI.csproj.CoreCompileInputs.cache
+F:\BATCH-7\Batch-7Sushma\StringAPI\obj\Debug\net8.0\StringAPI.dll
+F:\BATCH-7\Batch-7Sushma\StringAPI\obj\Debug\net8.0\refint\StringAPI.dll
+F:\BATCH-7\Batch-7Sushma\StringAPI\obj\Debug\net8.0\StringAPI.pdb
+F:\BATCH-7\Batch-7Sushma\StringAPI\obj\Debug\net8.0\StringAPI.genruntimeconfig.cache
+F:\BATCH-7\Batch-7Sushma\StringAPI\obj\Debug\net8.0\ref\StringAPI.dll

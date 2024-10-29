@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|f:\\batch-7\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\entity\\ourherodbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\entity\\ourherodbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|f:\\batch-7\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|f:\\batch-7\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\model\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\model\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|f:\\batch-7\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|f:\\batch-7\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|f:\\batch-7\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|f:\\batch-7\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\model\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CD130E-85EB-4CF8-BA68-BBCC0876A25D}|OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\model\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddUpdateOurHero.cs",
+              "DocumentMoniker": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Model\\AddUpdateOurHero.cs",
+              "RelativeDocumentMoniker": "OurHeroApiWithCodeFirstApproach\\Model\\AddUpdateOurHero.cs",
+              "ToolTip": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Model\\AddUpdateOurHero.cs",
+              "RelativeToolTip": "OurHeroApiWithCodeFirstApproach\\Model\\AddUpdateOurHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:48:59.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OurHeroService.cs",
+              "DocumentMoniker": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Services\\OurHeroService.cs",
+              "RelativeDocumentMoniker": "OurHeroApiWithCodeFirstApproach\\Services\\OurHeroService.cs",
+              "ToolTip": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Services\\OurHeroService.cs",
+              "RelativeToolTip": "OurHeroApiWithCodeFirstApproach\\Services\\OurHeroService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:28:58.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOurHeroService.cs",
+              "DocumentMoniker": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Services\\IOurHeroService.cs",
+              "RelativeDocumentMoniker": "OurHeroApiWithCodeFirstApproach\\Services\\IOurHeroService.cs",
+              "ToolTip": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Services\\IOurHeroService.cs",
+              "RelativeToolTip": "OurHeroApiWithCodeFirstApproach\\Services\\IOurHeroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:28:42.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OurHero.cs",
+              "DocumentMoniker": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Model\\OurHero.cs",
+              "RelativeDocumentMoniker": "OurHeroApiWithCodeFirstApproach\\Model\\OurHero.cs",
+              "ToolTip": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Model\\OurHero.cs",
+              "RelativeToolTip": "OurHeroApiWithCodeFirstApproach\\Model\\OurHero.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:08:41.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "OurHeroApiWithCodeFirstApproach\\appsettings.json",
+              "ToolTip": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\appsettings.json",
+              "RelativeToolTip": "OurHeroApiWithCodeFirstApproach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T07:04:37.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OurHeroDbContext .cs",
+              "DocumentMoniker": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Entity\\OurHeroDbContext .cs",
+              "RelativeDocumentMoniker": "OurHeroApiWithCodeFirstApproach\\Entity\\OurHeroDbContext .cs",
+              "ToolTip": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Entity\\OurHeroDbContext .cs",
+              "RelativeToolTip": "OurHeroApiWithCodeFirstApproach\\Entity\\OurHeroDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:58:44.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "OurHeroApiWithCodeFirstApproach\\Program.cs",
+              "ToolTip": "F:\\BATCH-7\\OurHeroApiWithCodeFirstApproach\\OurHeroApiWithCodeFirstApproach\\Program.cs",
+              "RelativeToolTip": "OurHeroApiWithCodeFirstApproach\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwPQkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:47:29.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

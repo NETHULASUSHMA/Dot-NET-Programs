@@ -1,0 +1,8 @@
+F:\BATCH-7\DbFirstApproachpractice\DbFirstApproachpractice\obj\Debug\net8.0\DbFirstApproachpractice.csproj.AssemblyReference.cache
+F:\BATCH-7\DbFirstApproachpractice\DbFirstApproachpractice\obj\Debug\net8.0\DbFirstApproachpractice.GeneratedMSBuildEditorConfig.editorconfig
+F:\BATCH-7\DbFirstApproachpractice\DbFirstApproachpractice\obj\Debug\net8.0\DbFirstApproachpractice.AssemblyInfoInputs.cache
+F:\BATCH-7\DbFirstApproachpractice\DbFirstApproachpractice\obj\Debug\net8.0\DbFirstApproachpractice.AssemblyInfo.cs
+F:\BATCH-7\DbFirstApproachpractice\DbFirstApproachpractice\obj\Debug\net8.0\DbFirstApproachpractice.csproj.CoreCompileInputs.cache
+F:\BATCH-7\DbFirstApproachpractice\DbFirstApproachpractice\obj\Debug\net8.0\DbFirstApproachpractice.MvcApplicationPartsAssemblyInfo.cache
+F:\BATCH-7\DbFirstApproachpractice\DbFirstApproachpractice\obj\Debug\net8.0\DbFirstApproachpractice.RazorAssemblyInfo.cache
+F:\BATCH-7\DbFirstApproachpractice\DbFirstApproachpractice\obj\Debug\net8.0\DbFirstApproachpractice.RazorAssemblyInfo.cs

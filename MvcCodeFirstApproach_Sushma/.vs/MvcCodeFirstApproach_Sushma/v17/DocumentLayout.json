@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|f:\\batch-7\\mvccodefirstapproach_sushma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|f:\\batch-7\\mvccodefirstapproach_sushma\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|solutionrelative:models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|f:\\batch-7\\mvccodefirstapproach_sushma\\controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|solutionrelative:controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|f:\\batch-7\\mvccodefirstapproach_sushma\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|f:\\batch-7\\mvccodefirstapproach_sushma\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|solutionrelative:models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|f:\\batch-7\\mvccodefirstapproach_sushma\\migrations\\20241016073538_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A3491-FDA3-4581-A9CE-C8FCAEE8A6C6}|MvcCodeFirstApproach_Sushma.csproj|solutionrelative:migrations\\20241016073538_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeModelsController.cs",
+              "DocumentMoniker": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\Controllers\\EmployeeModelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeModelsController.cs",
+              "ToolTip": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\Controllers\\EmployeeModelsController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:34:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T06:31:31.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:08:20.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeModel.cs",
+              "ToolTip": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:04:42.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241016073538_EmpInit.cs",
+              "DocumentMoniker": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\Migrations\\20241016073538_EmpInit.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241016073538_EmpInit.cs",
+              "ToolTip": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\Migrations\\20241016073538_EmpInit.cs",
+              "RelativeToolTip": "Migrations\\20241016073538_EmpInit.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:35:38.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\Models\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDBContext.cs",
+              "ToolTip": "F:\\BATCH-7\\MvcCodeFirstApproach_Sushma\\Models\\EmployeeDBContext.cs",
+              "RelativeToolTip": "Models\\EmployeeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:20:45.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
